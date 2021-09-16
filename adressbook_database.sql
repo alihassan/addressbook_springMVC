@@ -8,4 +8,4 @@ CREATE TABLE `persons` (
   `st_address` varchar(45) DEFAULT NULL,
   `city` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
